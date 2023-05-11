@@ -1,1 +1,1 @@
-# message-generator
+# Message Generator
